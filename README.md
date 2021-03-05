@@ -1,4 +1,4 @@
-### Hi there 👋, I am kim, a git and vim fan.
+### Hi there 👋, I am Chris, a git and vim fan.
 
 - 🔭 I’m currently working on hyper converged infrastructure(HCI).
 - 👯 I’m looking to collaborate on open source projects.
